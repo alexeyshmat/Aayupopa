@@ -1,0 +1,10 @@
+ru/mirea/trpp2nd1/entity/Employee.java
+ ru.mirea.trpp2nd1.entity.Employee
+ru/mirea/trpp2nd1/Application.java
+ ru.mirea.trpp2nd1.Application
+ru/mirea/trpp2nd1/entity/HealthResponse.java
+ ru.mirea.trpp2nd1.entity.HealthResponse
+ru/mirea/trpp2nd1/controllers/HealthController.java
+ ru.mirea.trpp2nd1.controllers.HealthController
+ru/mirea/trpp2nd1/controllers/EmployeeController.java
+ ru.mirea.trpp2nd1.controllers.EmployeeController

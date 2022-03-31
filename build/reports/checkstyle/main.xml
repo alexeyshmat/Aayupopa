@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.8.1">
+<file name="/home/shmat/IdeaProjects/trpp-second-1/src/main/java/ru/mirea/trpp2nd1/Application.java">
+</file>
+<file name="/home/shmat/IdeaProjects/trpp-second-1/src/main/java/ru/mirea/trpp2nd1/controllers/EmployeeController.java">
+</file>
+<file name="/home/shmat/IdeaProjects/trpp-second-1/src/main/java/ru/mirea/trpp2nd1/controllers/HealthController.java">
+</file>
+<file name="/home/shmat/IdeaProjects/trpp-second-1/src/main/java/ru/mirea/trpp2nd1/entity/Employee.java">
+</file>
+<file name="/home/shmat/IdeaProjects/trpp-second-1/src/main/java/ru/mirea/trpp2nd1/entity/HealthResponse.java">
+</file>
+</checkstyle>
